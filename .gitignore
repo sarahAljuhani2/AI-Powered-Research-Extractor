@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.log
+
+# Jupyter / IPython
+.ipynb_checkpoints/
+
+# Virtual environment
+venv/
+env/
+myenv/
+nenv/
+
+# Environment files
+.env
+.env.*
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Models and large files
+*.pkl
+*.pt
+*.h5
+*.ckpt
+
+# Node/npm if used
+node_modules/
+
+# Cache
+.cache/
+*.bak
